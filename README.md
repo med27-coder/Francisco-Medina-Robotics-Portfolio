@@ -1,22 +1,40 @@
-Hello, my name is Francisco Medina, 
-  and I am currently a student in the Artificial Intelligence & Robotics program (ITAI 2373). My academic focus is on understanding how intelligent systems interact with the physical world through sensors, actuators, and embedded computing. This repository documents my work on building, configuring, and programming the Raspberry Pi Car 5, a hands-on robotics project designed to strengthen my skills in Python, Linux, computer vision, and hardware-software integration.
+Raspberry Pi Car 5 – Robotics Portfolio
+Hello! My name is Francisco Medina, and I am currently a student in the Artificial Intelligence & Robotics (ITAI 2373) program. My academic focus centers on how intelligent systems perceive and interact with the physical world through sensors, actuators, embedded computing, and autonomous control.
 
-Project Overview
+This repository documents my complete development process for the Raspberry Pi Car 5, a hands‑on robotics project designed to strengthen my skills in:
 
-This repository serves as the complete development portfolio for my Raspberry Pi Car 5 project. It includes:
+Python programming
 
--Setup instructions for the Raspberry PiCar 5 and Robot HAT controller
+Linux and system configuration
 
--Module-by-module documentation of experiments, testing scripts, and results
+Computer vision and sensor integration
 
--Final project development, including lessons learned and future improvements
+Hardware–software interaction for real‑world robotics
 
-The goal of this repository is to show all stages of building and programming the robot, from initial configuration to functional movement tests, to more advanced features such as camera control, ultrasonic sensing, and autonomous steering logic.
+🚗 Project Overview
+This repository serves as the full development portfolio for my Raspberry Pi Car 5 build. It includes:
 
-This GitHub will act as:
+Setup and configuration guides for the Raspberry Pi Car 5 and Robot HAT controller
 
--A technical archive of my work
+Module‑by‑module documentation, including experiments, testing scripts, and results
 
--A reference for future robotics projects
+Final project development, lessons learned, and planned future improvements
 
--A showcase of my growing skills in embedded AI and robotic systems
+The goal of this project is to demonstrate the complete lifecycle of building and programming a functional robot—from initial hardware setup, to movement and sensor testing, to more advanced features such as:
+
+Camera streaming and control
+
+Ultrasonic distance sensing
+
+Autonomous steering logic
+
+Real‑time decision‑making
+
+📁 Purpose of This Repository
+This GitHub repository acts as:
+
+A technical archive of my robotics work
+
+A reference for future embedded AI and robotics projects
+
+A showcase of my growing skills in robotics engineering, embedded systems, and applied AI
